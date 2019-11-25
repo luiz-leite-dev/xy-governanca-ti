@@ -17,3 +17,12 @@ Prós: Empresa se concentra no seu ramo que é o de transporte de mercadoria. Em
 Contras: Necessidade de realocação ou até mesmo demissão aos poucos do pessoal que mantém a infraestrutura e o sistema On-Premise atual. Necessidade de treinamento dos usuários para o novo sistema.
 
 Hipótese 3. Nada é feito, e em poucos anos a Empresa XY decreta falência por não ter se adaptado rapidamente à dinâmica do mercado.
+Prós: Nenhum investimento necessário.
+Contras: Ausência de um negócio sustentável e adaptável às demandas do mercado.
+
+Proposta:
+- Definir os stakeholders com voz para decisão final.
+- Realizar coleta de mais dados para auxiliar nesta tomada de decisão, incluindo entrevistas com funcionários que mantém a infraestrutura e o sistema atuais.
+- Levantar/consolidar as hipóteses a partir dos dados coletados.
+- Validar uma a uma as hipóteses, fazendo aplicações MVP práticas e ágeis, direcionadas para entrega de valor ao negócio foco da empresa, medindo a efetividade da solução escolhida bem como a aceitação dos stakeholders e usuários.
+- Em todo esse processo será aplicada uma abordagem evolutiva, baseada nos princípios Ágeis e Lean, amplamente utilizados por startups bem como pelos grandes players de tecnologia e de gestão, pautado principalmente na eficácia da solução e na eficiência do fluxo de entregas defendida pelo Kanban.
